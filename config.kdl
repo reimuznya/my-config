@@ -150,7 +150,7 @@ window-rule {
 
 // Горячие клавиши (binds) — всё оставлено без изменений
 binds {
-    Mod+E hotkey-overlay-title="Run an application: Dolphin" { spawn "dolphin"; }
+    Mod+E hotkey-overlay-title="Run an application: Nemo" { spawn "nemo"; }
     Mod+Shift+Slash { show-hotkey-overlay; }
     Alt+Q hotkey-overlay-title="Open a Terminal: ghostty" { spawn "ghostty"; }
     Mod+D hotkey-overlay-title="Run an Application: Rofi" { spawn-sh "rofi -show drun"; }
